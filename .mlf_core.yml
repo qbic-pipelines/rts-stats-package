@@ -1,0 +1,19 @@
+mlf_core_version: '1.11.3 # <<MLF-CORE_NO_BUMP>>'
+domain: package
+language: prediction
+project_slug: rtsstat
+project_slug_no_hyphen: rtsstat
+template_version: 'None # <<MLF-CORE_NO_BUMP>>'
+template_handle: package-prediction
+github_username: waseju
+creator_github_username: waseju
+is_github_repo: true
+is_repo_private: true
+is_github_orga: false
+full_name: Julian Wanner
+email: jwgithub@mailbox.org
+project_name: rtsstat
+project_short_description: rtsstat. A mlf-core based .
+version: 0.1.5
+license: MIT
+framework: pytorch
